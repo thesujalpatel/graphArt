@@ -2,7 +2,7 @@
 
 A fun project that showcases my name in the style of a 2004 GitHub contribution graph.
 
-Created by [GitGenix](https://gitgenix.netlify.app) - [GitHub](https://github.com/thesujalpatel/gitgenix)
+Created by [Gitgenix](https://gitgenix.netlify.app) - [GitHub](https://github.com/thesujalpatel/gitgenix)
 
 ![Screenshot](screenshot.png)
 
